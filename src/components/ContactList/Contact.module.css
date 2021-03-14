@@ -9,7 +9,7 @@
   margin-bottom: 10px;
   font-size: 22px;
   font-weight: 600;
-  color: rgb(9, 145, 16);
+  color: #123155;
 }
 
 .button {
@@ -27,6 +27,6 @@
 
 .button:hover,
 .button:focus {
-  background-color: #ce107f;
-  box-shadow: 5px 5px 5px 0px rgba(243, 155, 217, 0.925);
+  background-color: #f09143;
+  box-shadow: 5px 5px 5px 0px rgba(232, 235, 63, 0.925);
 }
